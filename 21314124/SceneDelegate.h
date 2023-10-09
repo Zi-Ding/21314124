@@ -1,0 +1,16 @@
+//
+//  SceneDelegate.h
+//  21314124
+//
+//  Created by 1 on 2023/10/9.
+//  Copyright © 2023 1. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+
